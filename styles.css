@@ -1,0 +1,26 @@
+
+body {
+    text-align: center;
+    background-color: rgb(36, 75, 62);
+     
+}
+
+  #container {
+    position: relative;
+
+}
+
+canvas {
+    position: absolute;
+    top: 0;
+    left: 0;
+ 
+
+} 
+
+.circle {
+  width: 1000px; 
+  height: 860px; 
+  border-radius: 50%;
+  background: radial-gradient(circle, rgba(114, 224, 151, 0.911), #110400cc);
+}
